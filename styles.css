@@ -1,0 +1,48 @@
+.header {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+}
+.header2 {
+ background-color: whitesmoke;
+ display: flex;
+ justify-content: space-between;
+ font-size: x-large;
+}
+
+
+body {
+    background-color: #D4AF37;
+    border: solid;
+    border-color:#00FF00;
+    border-width:  10px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    
+
+
+
+}
+
+
+/*to make the fonts for the body of the webpage*/
+body{
+    font-weight: 200;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: x-small;
+}
+* {
+    padding: 20px;
+}
+
+/* to set the background image*/
+body {
+    background-image: url("origami.jpg");
+}
+
+.menu {
+    font-size: x-large;
+}
